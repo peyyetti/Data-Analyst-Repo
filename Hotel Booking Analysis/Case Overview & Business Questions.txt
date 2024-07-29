@@ -1,0 +1,11 @@
+Problem:- 
+Resort Hotel and City Hotel are experiencing higher cancellation rates causing lower revenue.
+
+Business Questions:- 
+1. What are the variables/factors that affect hotel reservation cancellations
+2. How can we make hotel reservations cancellations better?
+3. How will hotels be assisted in making pricing and promotional decisions?
+
+Hypothesis:-
+1. More cancellations occur when prices(ADR) are higher  ----> Validated acc to data
+2. Cancellation rate increases when waitlist is higher.
